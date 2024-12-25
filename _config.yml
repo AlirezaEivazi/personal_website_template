@@ -111,12 +111,9 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: 
+  email            : Alirezaa.Eivazii@Gmail.com
   google_scholar: Q25s5KkAAAAJ
   github: sauleh
-  instagram: saulehe
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,7 +135,7 @@ author:
     #   # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Alirezaa_Eivazi"
+      #url: "http://t.me/Alirezaa_Eivazi"
 
 # Site Footer
 footer:

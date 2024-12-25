@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /olympiad/
-title: Resume
+title: روزی روزگاری المپیاد
 tags: [physics, olympiad]
 modified: 4-14-2019
 comments: True

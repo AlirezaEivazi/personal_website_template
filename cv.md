@@ -10,4 +10,4 @@ comments: True
 # مراسم اهدای مدال المپیاد در مشهد 
 ## #1402
 ## #سا ل_کنکور
-![اهدای مدال المپیاد](.\assets\images\ehda_medal_mashhad.jpg)
+![ehdaye medal](.\assets\images\ehda_medal_mashhad.jpg)

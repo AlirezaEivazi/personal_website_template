@@ -9,4 +9,4 @@ comments: True
 ---
 # مراسم اهدای مدال المپیاد در مشهد 
 ## 1402 سال 
-![ehdaye medal](.\assets\images\ehda-medal-mashhad.jpg)
+![ehdaye medal](.\assets\images\ehda.jpg)

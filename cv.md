@@ -8,6 +8,5 @@ modified: 4-14-2019
 comments: True
 ---
 # مراسم اهدای مدال المپیاد در مشهد 
-## #1402
-## #سا ل_کنکور
+## 1402 سال 
 ![ehdaye medal](.\assets\images\ehda_medal_mashhad.jpg)

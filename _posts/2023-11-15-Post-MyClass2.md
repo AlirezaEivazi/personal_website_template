@@ -1,13 +1,10 @@
 ---
 layout: posts
-title: چه هوای خوبی
+title: دانشگاه علم و صنعت و دیگر هیچ
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+# قبولی در کامپیوتر علموص  با 18 روز درس خوندن!
 
-# this is a header
+بالاخره بعد از یک سال به اصطلاح کنکوری نتایج انتخاب رشته اومد و متوجه شدیم که باید دوران مقدس دانشجویی رو در دانشگاه علم و صنعت بگذرونیم ...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Af4YySLTzuw?si=w-qzLNtm1X3kUT7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+# #علموص

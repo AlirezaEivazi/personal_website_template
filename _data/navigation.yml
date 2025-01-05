@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "MyFinal"
+    url: /MyFinal/
   - title: "روزی روزگاری المپیاد"
     url: /olympiad/
   - title: "برنامه کلاسی"
@@ -14,8 +16,7 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: "MyFinal"
-    url: /MyFinal/
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

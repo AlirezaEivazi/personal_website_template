@@ -7,4 +7,8 @@ title: Exam day shots
 modified: 4-14-2019
 comments: True
 ---
-![rooze emtehan](<assets/images/Screenshot (342).png>)
+![rooze emtehan](<./assets/images/Screenshot (342).png>)
+- sample item 1
+- sample item 2
+
+
